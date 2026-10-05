@@ -30,6 +30,12 @@
 		<false/>
 		<key>NSAllowsLocalNetworking</key>
 		<true/>
+		<key>NSLocationWhenInUseUsageDescription</key>
+		<string>We need your location to provide personalized services</string>
+		<key>NSLocationAlwaysUsageDescription</key>
+		<string>We need your location to track your movements</string>
+		<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+		<string>We need your location for continuous tracking</string>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string></string>
