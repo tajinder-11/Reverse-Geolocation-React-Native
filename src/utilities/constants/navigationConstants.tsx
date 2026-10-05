@@ -6,4 +6,5 @@ export const SCREEN_NAMES = {
   Signup: 'Signup',
   ForgotPassword: 'ForgotPassword',
   UsersScreen: 'UsersScreen',
+  GeocodingScreen: 'GeocodingScreen',
 } as const;
