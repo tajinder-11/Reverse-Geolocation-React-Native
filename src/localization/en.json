@@ -1,0 +1,33 @@
+{
+  "translation": {
+    "appEnvironment": "App environment: {0}",
+    "somethingWentWrong": "Something went wrong. Please try again later",
+    "login": "Log in",
+    "signup": "Sign up",
+    "users": "Users",
+    "permissionToUseCamera": "Permission to use Camera",
+    "weNeedYourPermission": "We need your permission to use the camera to take photos.",
+    "sessionExpired": "Your session has expired! Please log in again.",
+    "done": "Done",
+    "enterAnEmail": "Please enter your email.",
+    "placeholderEmail": "e.g. john@example.com",
+    "placeholderName": "John Doe",
+    "passsword": "********",
+    "pleaseEnterPassword": "Please enter the password.",
+    "enterValidEmail": "Please enter a valid email address.",
+    "passwordCanContainOnly": "Your password must be a minimum of 8 characters long and contain at least one special character from !@#$%^&-?, one number, and one uppercase letter.",
+    "checkEmailForPasswordRest": "Please check your email. A verification link has been sent to change your password.",
+    "enterYourName": "Please enter your name.",
+    "forgotPassword": "Forgot Password",
+    "forgotPasswordWithQuestion": "Forgot Password?",
+    "dontHaveAnAccount": "Don't have an account?",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Submit",
+    "name": "Name",
+    "logout": "Log out",
+    "noUsersFound": "No Users Found",
+    "noInternetConnected": "Oops! It looks like you're not connected to the internet.",
+    "checkInternetConnection": "Please check your internet connection and try again."
+  }
+}
